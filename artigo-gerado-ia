@@ -1,0 +1,8 @@
+projeto-artigos-ia/
+│
+├─ README.md         
+├─ prompts.txt       
+├─ imagens/         
+│   ├─ capa.png
+│   └─ blocos.png
+└─ artigo-link.txt 
